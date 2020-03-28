@@ -1,2 +1,2 @@
 # Pong
-It Is The Pong Game Recreated In Unity
+It is the Pong game recreated in Unity.
